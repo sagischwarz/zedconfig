@@ -1,0 +1,32 @@
+{
+  "toolbar": {
+    "quick_actions": false,
+    "breadcrumbs": false,
+  },
+  "tabs": {
+    "close_position": "left",
+  },
+  "cursor_blink": false,
+  "ui_font_family": ".SystemUIFont",
+  "buffer_line_height": "standard",
+  "buffer_font_family": "Fira Code",
+  "buffer_font_features": {
+    "calt": false,
+  },
+  "disable_ai": true,
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+  "session": {
+    "trust_all_worktrees": true,
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 13.0,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Nord Dark",
+  },
+  "title_bar": { "show_sign_in": false },
+}
