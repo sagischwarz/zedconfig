@@ -1,4 +1,7 @@
 {
+  "collaboration_panel": {
+    "button": false,
+  },
   "toolbar": {
     "quick_actions": false,
     "breadcrumbs": false,
