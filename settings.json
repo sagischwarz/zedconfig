@@ -1,4 +1,5 @@
 {
+  "icon_theme": "Catppuccin Latte",
   "collaboration_panel": {
     "button": false,
   },
@@ -28,8 +29,8 @@
   "buffer_font_size": 13.0,
   "theme": {
     "mode": "system",
-    "light": "One Light",
-    "dark": "Nord Dark",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Mocha",
   },
   "title_bar": { "show_sign_in": false },
 }
